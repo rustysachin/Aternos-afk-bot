@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "AFKBo3T", 
+    "username": "Bunty", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "waguriismp.aternos.me", 
-    "port": 58031,   
+    "ip": "aslayyers.aternos.me", 
+    "port": 43506,   
     "version": "1.12.1"   
   },
   
